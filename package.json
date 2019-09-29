@@ -1,0 +1,23 @@
+{
+  "name": "restful-api-node-express-mongo",
+  "version": "1.0.0",
+  "description": "restful api node express mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathaniel-Dominguez/restful-api-node-express-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathaniel-Dominguez/restful-api-node-express-mongo/issues"
+  },
+  "homepage": "https://github.com/Nathaniel-Dominguez/restful-api-node-express-mongo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
